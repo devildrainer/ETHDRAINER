@@ -6,7 +6,7 @@
 
 ## 🖼️ ETH Stealer / NFT Stealer / USDT Stealer / Drainer Template / ETH Drainer / NFT Drainer / USDT Drainer
 
-![preview](https://media.discordapp.net/attachments/988355855286145107/998526395741372507/03569959dafc6e73803a82231a4e2539.png?width=1174&height=572)
+![preview](https://s3.gifyu.com/images/Capture5d1abc6dac64687a.jpg)
 
 ## `💡 Features`
 - [x] Inspect Element Detection
