@@ -38,7 +38,7 @@ Index.html:
 
 
 
-To get instant support, contact me on Telegram (https://t.me/lukassen_admin)
+To get instant support, contact me on Telegram (https://t.me/devildrainer)
 
 
 ## `⭐ Socials :`
