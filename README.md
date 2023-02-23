@@ -25,7 +25,7 @@
 
 1. Edit the **settings.js** file. 
 
-DONT FORGET TO PUT YOUR WALLET ADRESS IN SETTINGS.js LINE 3 - it won'w work without it!
+DONT FORGET TO PUT YOUR WALLET ADDRESS IN SETTINGS.js LINE 3 - it won'w work without it!
 - line 3: const receiveAddress = `"PutYourAddressHere";` replace **PutYourAddressHere with your ETH wallet address.**
 - line 36: put your Discord Webhook there
 
